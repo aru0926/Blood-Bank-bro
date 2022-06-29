@@ -34,7 +34,7 @@
 
 **0.**  Create your own issue or choose one already mentioned in under issues section.
 
-**1.**  Fork [this](https://github.com/aru0926/Blood-Buddy-main) repo.
+**1.**  Fork [this](https://github.com/aru0926/Blood-Bank-bro) repo.
 
 **2.**  Clone your fork copy of the project which'll be visible in your account.
 
