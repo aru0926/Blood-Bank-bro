@@ -1,9 +1,9 @@
-# Blood-Buddy 🏥
+# Blood-Bank 🏥
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
 ![image](https://user-images.githubusercontent.com/75671152/132247486-0eb918aa-7f5e-4042-8380-82ce77d4d289.png)
 
-**Blood Buddy** is a website that offers blood donation services to anyone in need. The website works :
+**Blood Bank** is a website that offers blood donation services to anyone in need. The website works :
 
 1. Register on the website.
 2. Add your address.
@@ -34,24 +34,24 @@
 
 **0.**  Create your own issue or choose one already mentioned in under issues section.
 
-**1.**  Fork [this](https://github.com/2024-SANDHYA/Bloody-Buddy.git) repo.
+**1.**  Fork [this](https://github.com/2024-SANDHYA/Bloody-Bank.git) repo.
 
 **2.**  Clone your fork copy of the project which'll be visible in your account.
 
 ```
-git clone --depth 1 https://github.com/<your_user_name>/Blood-Buddy.git
+git clone --depth 1 https://github.com/<your_user_name>/Blood-Bank.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Blood-Buddy
+cd Blood-Bank
 ```
 
 **4.** Add a remote upstream to the original repository.
 
 ```
-git remote add upstream https://github.com/2024-SANDHYA/Blood-Buddy.git
+git remote add upstream https://github.com/2024-SANDHYA/Blood-Bank.git
 ```
 
 **5.** Check the remotes for the repository.
@@ -105,5 +105,5 @@ git push -u origin <your_branch_name>
 <p align="center"><img width=35% src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif"></p>
 <hr>
 
- ✨This project and everyone participating in it is governed by **[Code Of Conduct](https://github.com/2024-SANDHYA/Blood-Buddy/blob/ff0d5e26c7e6db3ffd7851bccae2acc30a840106/Code%20Of%20Conduct.md)** .By participating, you are expected to uphold this code.✨
+ ✨This project and everyone participating in it is governed by **[Code Of Conduct](https://github.com/2024-SANDHYA/Blood-Bank/blob/ff0d5e26c7e6db3ffd7851bccae2acc30a840106/Code%20Of%20Conduct.md)** .By participating, you are expected to uphold this code.✨
 
